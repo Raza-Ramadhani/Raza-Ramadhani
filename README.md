@@ -11,6 +11,7 @@ A game where you land and navigate a drone on Mars. My larger project with game 
  
 TypeScript · Next.js · React · Python · Git · Linux
 
+Currently learning: Go
 <!--
 **Raza-Ramadhani/Raza-Ramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
