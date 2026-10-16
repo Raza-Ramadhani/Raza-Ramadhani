@@ -4,6 +4,9 @@ I'm a student in Switzerland. I build web applications with TypeScript and Next.
 
 ### Projects
 
+**[Fondue](https://fondue-app-three.vercel.app)** — Phaser · TypeScript · 🥇 1st place, Swiss AI Weeks
+A gamified mood-logging app for early detection of mental health issues. You care for a digital-twin pet (feed it, take it outside), and those everyday actions become a gentle log of how you're doing. Built in a team for the Association Genevoise des Psychologues (AGPsy) challenge; I worked on the frontend. Pitched the winning project in Lugano.
+
 **Drone Mars Mission** — Python / Pygame Zero
 A game where you land and navigate a drone on Mars. My larger project with game loops, collision handling and state management.
 
